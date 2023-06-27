@@ -5,7 +5,7 @@
 
 ### <img src="blob/telegram_icon.png" alt="drawing" style="width:22px"/> &nbsp; https://t.me/aleksey_mrvsk
 ### <img src="blob/mail_icon.png" alt="drawing" style="width:22px"/> &nbsp; alekseymrvsk@gmail.com
-### &nbsp; &nbsp; &nbsp; alekseymrvsk@yandex.by
+### &nbsp; &nbsp; &nbsp; &nbsp; alekseymrvsk@yandex.by
 ### <img src="blob/discord_icon.png" alt="drawing" style="width:22px"/> &nbsp; rs-school server: Aleksey (@alekseymrvsk)
 ---
 
