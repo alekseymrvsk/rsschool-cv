@@ -5,7 +5,7 @@
 
 ### <img src="blob/telegram_icon.png" alt="drawing" style="width:22px"/> &nbsp; https://t.me/aleksey_mrvsk
 ### <img src="blob/mail_icon.png" alt="drawing" style="width:22px"/> &nbsp; alekseymrvsk@gmail.com
-### &nbsp; &nbsp; &nbsp; &nbsp; alekseymrvsk@yandex.by
+### &nbsp; &nbsp; &nbsp; alekseymrvsk@yandex.by
 ### <img src="blob/discord_icon.png" alt="drawing" style="width:22px"/> &nbsp; rs-school server: Aleksey (@alekseymrvsk)
 ---
 
@@ -17,7 +17,7 @@ I'm Junior Python Developer. Two years I studied Python by making pet projects. 
 
 ## Skills
 
-- Python (Web-app, ML)
+- Python (Web, ML)
 - Scikit-learn, TensorFlow, Keras, Ultralytics
 - Pandas, Numpy
 - Django, FastAPI
